@@ -1,0 +1,22 @@
+[
+    {
+        "url": "https://facebook.com",
+        "label": "facebook",
+        "icon": "fb.jpg"
+    },
+    {
+        "url": "https://instagram.com",
+        "label": "instagram",
+        "icon": "ig.png"
+    },
+    {
+        "url": "https://x.com",
+        "label": "x",
+        "icon": "x.webp"
+    },
+    {
+        "url": "https://linkedin.com",
+        "label": "linkedin",
+        "icon": "li.png"
+    }
+]
